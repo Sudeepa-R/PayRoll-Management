@@ -1,2 +1,2 @@
-Free Download Image Used Links
--https://st2.depositphotos.com/2458127/6152/i/450/depositphotos_61521079-stock-photo-payroll-time-sheet-for-human.jpg
+PayRoll-Management
+-The payroll management system efficiently automates salary calculations, tax deductions, and employee payments. Through its intuitive interface and customizable features, the payroll management system empowers businesses to effectively manage their payroll tasks with ease and precision.
